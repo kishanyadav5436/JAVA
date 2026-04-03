@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+  <head>
+    <title>Railway Ticket Booking</title>
+    <link rel="stylesheet" th:href="@{/css/style.css}" />
+  </head>
+  <body>
+    <h1>Book a Ticket</h1>
+    <form action="#" th:action="@{/book}" th:object="${ticket}" method="post">
+      <div>
+        <label for="name">Name:</label>
+        <input type="text" id="name" th:field="*{name}" />
+        <span
+          class="error"
+          th:if="${#fields.hasErrors('name')}"
+          th:errors="*{name}"
+        ></span>
+      </div>
+      <div>
+        <label for="age">Age:</label>
+        <input type="number" id="age" th:field="*{age}" />
+        <span
+          class="error"
+          th:if="${#fields.hasErrors('age')}"
+          th:errors="*{age}"
+        ></span>
+      </div>
+      <div>
+        <label for="from">From:</label>
+        <input type="text" id="from" th:field="*{from}" />
+        <span
+          class="error"
+          th:if="${#fields.hasErrors('from')}"
+          th:errors="*{from}"
+        ></span>
+      </div>
+      <div>
+        <label for="to">To:</label>
+        <input type="text" id="to" th:field="*{to}" />
+        <span
+          class="error"
+          th:if="${#fields.hasErrors('to')}"
+          th:errors="*{to}"
+        ></span>
+      </div>
+      <button type="submit">Book</button>
+    </form>
+
+    <h2>Booked Tickets</h2>
+    <form th:action="@{/}" method="get">
+      <div style="display: flex; gap: 10px; margin-bottom: 0;">
+        <input type="text" name="keyword" th:value="${keyword}" placeholder="Search by name, from, or to" style="flex: 1;" />
+        <button type="submit">Search</button>
+        <a th:href="@{/}" style="padding: 10px 20px; background-color: #95a5a6; color: white; border-radius: 4px; text-decoration: none; display: inline-block; text-align: center;">Reset</a>
+      </div>
+    </form>
+    <ul>
+      <li th:each="t : ${tickets}">
+        <span th:text="${t.name}">Name</span> -
+        <span th:text="${t.from}">From</span> to
+        <span th:text="${t.to}">To</span>
+        <a th:href="@{/delete/{id}(id=${t.id})}" style="color: red; margin-left: 10px;">Delete</a>
+      </li>
+    </ul>
+  </body>
+</html>
