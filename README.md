@@ -89,3 +89,14 @@ int main() {
 
     return 0;
 }
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/kishanyadav5436/JAVA/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/kishanyadav5436/JAVA/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
