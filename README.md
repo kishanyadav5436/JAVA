@@ -95,11 +95,13 @@ int main() {
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kishanyadav5436/JAVA/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/kishanyadav5436/JAVA/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/kishanyadav5436/JAVA/tree/master/0303-range-sum-query-immutable) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kishanyadav5436/JAVA/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/kishanyadav5436/JAVA/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -122,10 +124,12 @@ int main() {
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/kishanyadav5436/JAVA/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/kishanyadav5436/JAVA/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/kishanyadav5436/JAVA/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/kishanyadav5436/JAVA/tree/master/0268-missing-number) |
 ## Newton's Method
 |  |
 | ------- |
@@ -146,4 +150,12 @@ int main() {
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/kishanyadav5436/JAVA/tree/master/0303-range-sum-query-immutable) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/kishanyadav5436/JAVA/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/kishanyadav5436/JAVA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
