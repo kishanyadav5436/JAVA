@@ -95,6 +95,7 @@ int main() {
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kishanyadav5436/JAVA/tree/master/0001-two-sum) |
+| [0179-largest-number](https://github.com/kishanyadav5436/JAVA/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/kishanyadav5436/JAVA/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/kishanyadav5436/JAVA/tree/master/0303-range-sum-query-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kishanyadav5436/JAVA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -161,6 +162,7 @@ int main() {
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/kishanyadav5436/JAVA/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/kishanyadav5436/JAVA/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kishanyadav5436/JAVA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/kishanyadav5436/JAVA/tree/master/0414-third-maximum-number) |
@@ -168,4 +170,12 @@ int main() {
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kishanyadav5436/JAVA/tree/master/0350-intersection-of-two-arrays-ii) |
+## String
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/kishanyadav5436/JAVA/tree/master/0179-largest-number) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/kishanyadav5436/JAVA/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
