@@ -97,6 +97,7 @@ int main() {
 | [0001-two-sum](https://github.com/kishanyadav5436/JAVA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/kishanyadav5436/JAVA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0042-trapping-rain-water](https://github.com/kishanyadav5436/JAVA/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/kishanyadav5436/JAVA/tree/master/0053-maximum-subarray) |
 | [0179-largest-number](https://github.com/kishanyadav5436/JAVA/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/kishanyadav5436/JAVA/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/kishanyadav5436/JAVA/tree/master/0303-range-sum-query-immutable) |
@@ -199,10 +200,12 @@ int main() {
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kishanyadav5436/JAVA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/kishanyadav5436/JAVA/tree/master/0053-maximum-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kishanyadav5436/JAVA/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/kishanyadav5436/JAVA/tree/master/0053-maximum-subarray) |
 ## Monotonic Stack
 |  |
 | ------- |
