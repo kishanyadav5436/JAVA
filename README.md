@@ -99,6 +99,7 @@ int main() {
 | [0042-trapping-rain-water](https://github.com/kishanyadav5436/JAVA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/kishanyadav5436/JAVA/tree/master/0053-maximum-subarray) |
 | [0179-largest-number](https://github.com/kishanyadav5436/JAVA/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/kishanyadav5436/JAVA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/kishanyadav5436/JAVA/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/kishanyadav5436/JAVA/tree/master/0303-range-sum-query-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kishanyadav5436/JAVA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -136,6 +137,7 @@ int main() {
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/kishanyadav5436/JAVA/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/kishanyadav5436/JAVA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/kishanyadav5436/JAVA/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -181,6 +183,7 @@ int main() {
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kishanyadav5436/JAVA/tree/master/0042-trapping-rain-water) |
+| [0189-rotate-array](https://github.com/kishanyadav5436/JAVA/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kishanyadav5436/JAVA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/kishanyadav5436/JAVA/tree/master/0455-assign-cookies) |
 ## String
