@@ -100,6 +100,7 @@ int main() {
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kishanyadav5436/JAVA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/kishanyadav5436/JAVA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/kishanyadav5436/JAVA/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/kishanyadav5436/JAVA/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/kishanyadav5436/JAVA/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/kishanyadav5436/JAVA/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/kishanyadav5436/JAVA/tree/master/0238-product-of-array-except-self) |
@@ -183,6 +184,7 @@ int main() {
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/kishanyadav5436/JAVA/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/kishanyadav5436/JAVA/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/kishanyadav5436/JAVA/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kishanyadav5436/JAVA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -193,6 +195,7 @@ int main() {
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kishanyadav5436/JAVA/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/kishanyadav5436/JAVA/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/kishanyadav5436/JAVA/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kishanyadav5436/JAVA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/kishanyadav5436/JAVA/tree/master/0455-assign-cookies) |
@@ -208,6 +211,7 @@ int main() {
 ## Quicksort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/kishanyadav5436/JAVA/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/kishanyadav5436/JAVA/tree/master/0455-assign-cookies) |
 ## Divide and Conquer
 |  |
@@ -244,4 +248,8 @@ int main() {
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/kishanyadav5436/JAVA/tree/master/0912-sort-an-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/kishanyadav5436/JAVA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
