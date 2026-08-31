@@ -108,6 +108,7 @@ int main() {
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kishanyadav5436/JAVA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/kishanyadav5436/JAVA/tree/master/0455-assign-cookies) |
 | [0575-distribute-candies](https://github.com/kishanyadav5436/JAVA/tree/master/0575-distribute-candies) |
+| [0704-binary-search](https://github.com/kishanyadav5436/JAVA/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -147,6 +148,7 @@ int main() {
 | [0069-sqrtx](https://github.com/kishanyadav5436/JAVA/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/kishanyadav5436/JAVA/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kishanyadav5436/JAVA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0704-binary-search](https://github.com/kishanyadav5436/JAVA/tree/master/0704-binary-search) |
 ## Newton's Method
 |  |
 | ------- |
