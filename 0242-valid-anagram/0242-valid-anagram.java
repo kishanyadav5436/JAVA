@@ -1,4 +1,5 @@
-import java.util.Arrays;
+import java.util.HashMap;
+import java.util.Map;
 
 class Solution {
     public boolean isAnagram(String s, String t) {
@@ -6,12 +7,27 @@ class Solution {
             return false;
         }
 
-        char[] sArr = s.toCharArray();
-        char[] tArr = t.toCharArray();
+        Map<Character, Integer> count = new HashMap<>();
 
-        Arrays.sort(sArr);
-        Arrays.sort(tArr);
+        // Count frequency of each character in s
+        for (char ch : s.toCharArray()) {
+            count.put(ch, count.getOrDefault(ch, 0) + 1);
+        }
 
-        return Arrays.equals(sArr, tArr);
+        // Decrement and clean up characters matching t
+        for (char ch : t.toCharArray()) {
+            if (!count.containsKey(ch)) {
+                return false;
+            }
+
+            int currentCount = count.get(ch) - 1;
+            if (currentCount == 0) {
+                count.remove(ch);
+            } else {
+                count.put(ch, currentCount);
+            }
+        }
+
+        return count.isEmpty();
     }
 }
