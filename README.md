@@ -117,6 +117,7 @@ int main() {
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kishanyadav5436/JAVA/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/kishanyadav5436/JAVA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kishanyadav5436/JAVA/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kishanyadav5436/JAVA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kishanyadav5436/JAVA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -186,6 +187,7 @@ int main() {
 | ------- |
 | [0075-sort-colors](https://github.com/kishanyadav5436/JAVA/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/kishanyadav5436/JAVA/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/kishanyadav5436/JAVA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kishanyadav5436/JAVA/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kishanyadav5436/JAVA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/kishanyadav5436/JAVA/tree/master/0414-third-maximum-number) |
@@ -205,6 +207,7 @@ int main() {
 | ------- |
 | [0125-valid-palindrome](https://github.com/kishanyadav5436/JAVA/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/kishanyadav5436/JAVA/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/kishanyadav5436/JAVA/tree/master/0242-valid-anagram) |
 ## Greedy
 |  |
 | ------- |
