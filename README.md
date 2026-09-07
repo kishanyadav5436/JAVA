@@ -118,6 +118,7 @@ int main() {
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kishanyadav5436/JAVA/tree/master/0001-two-sum) |
+| [0205-isomorphic-strings](https://github.com/kishanyadav5436/JAVA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/kishanyadav5436/JAVA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kishanyadav5436/JAVA/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kishanyadav5436/JAVA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -213,6 +214,7 @@ int main() {
 | ------- |
 | [0125-valid-palindrome](https://github.com/kishanyadav5436/JAVA/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/kishanyadav5436/JAVA/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/kishanyadav5436/JAVA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/kishanyadav5436/JAVA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/kishanyadav5436/JAVA/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/kishanyadav5436/JAVA/tree/master/0383-ransom-note) |
