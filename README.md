@@ -99,6 +99,7 @@ int main() {
 | [0033-search-in-rotated-sorted-array](https://github.com/kishanyadav5436/JAVA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kishanyadav5436/JAVA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/kishanyadav5436/JAVA/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/kishanyadav5436/JAVA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/kishanyadav5436/JAVA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/kishanyadav5436/JAVA/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/kishanyadav5436/JAVA/tree/master/0179-largest-number) |
@@ -118,6 +119,7 @@ int main() {
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kishanyadav5436/JAVA/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/kishanyadav5436/JAVA/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/kishanyadav5436/JAVA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/kishanyadav5436/JAVA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kishanyadav5436/JAVA/tree/master/0268-missing-number) |
@@ -189,6 +191,7 @@ int main() {
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/kishanyadav5436/JAVA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/kishanyadav5436/JAVA/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/kishanyadav5436/JAVA/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kishanyadav5436/JAVA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -212,6 +215,7 @@ int main() {
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/kishanyadav5436/JAVA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/kishanyadav5436/JAVA/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/kishanyadav5436/JAVA/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/kishanyadav5436/JAVA/tree/master/0205-isomorphic-strings) |
