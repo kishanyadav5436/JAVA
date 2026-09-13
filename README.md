@@ -185,6 +185,7 @@ int main() {
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/kishanyadav5436/JAVA/tree/master/0303-range-sum-query-immutable) |
+| [0933-number-of-recent-calls](https://github.com/kishanyadav5436/JAVA/tree/master/0933-number-of-recent-calls) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -290,6 +291,7 @@ int main() {
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/kishanyadav5436/JAVA/tree/master/0387-first-unique-character-in-a-string) |
+| [0933-number-of-recent-calls](https://github.com/kishanyadav5436/JAVA/tree/master/0933-number-of-recent-calls) |
 ## Quickselect
 |  |
 | ------- |
@@ -302,4 +304,8 @@ int main() {
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kishanyadav5436/JAVA/tree/master/0020-valid-parentheses) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/kishanyadav5436/JAVA/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
