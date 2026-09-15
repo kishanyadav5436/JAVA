@@ -148,12 +148,14 @@ int main() {
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kishanyadav5436/JAVA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/kishanyadav5436/JAVA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kishanyadav5436/JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/kishanyadav5436/JAVA/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kishanyadav5436/JAVA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/kishanyadav5436/JAVA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kishanyadav5436/JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/kishanyadav5436/JAVA/tree/master/2236-root-equals-sum-of-children) |
 ## Math
@@ -187,6 +189,7 @@ int main() {
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kishanyadav5436/JAVA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/kishanyadav5436/JAVA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kishanyadav5436/JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Design
 |  |
@@ -323,5 +326,6 @@ int main() {
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/kishanyadav5436/JAVA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kishanyadav5436/JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
