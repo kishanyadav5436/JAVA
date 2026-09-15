@@ -150,6 +150,7 @@ int main() {
 | [0094-binary-tree-inorder-traversal](https://github.com/kishanyadav5436/JAVA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/kishanyadav5436/JAVA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kishanyadav5436/JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/kishanyadav5436/JAVA/tree/master/0226-invert-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/kishanyadav5436/JAVA/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
@@ -157,6 +158,7 @@ int main() {
 | [0094-binary-tree-inorder-traversal](https://github.com/kishanyadav5436/JAVA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/kishanyadav5436/JAVA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kishanyadav5436/JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/kishanyadav5436/JAVA/tree/master/0226-invert-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/kishanyadav5436/JAVA/tree/master/2236-root-equals-sum-of-children) |
 ## Math
 |  |
@@ -191,6 +193,7 @@ int main() {
 | [0094-binary-tree-inorder-traversal](https://github.com/kishanyadav5436/JAVA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/kishanyadav5436/JAVA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kishanyadav5436/JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/kishanyadav5436/JAVA/tree/master/0226-invert-binary-tree) |
 ## Design
 |  |
 | ------- |
@@ -328,4 +331,5 @@ int main() {
 | ------- |
 | [0100-same-tree](https://github.com/kishanyadav5436/JAVA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kishanyadav5436/JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/kishanyadav5436/JAVA/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
