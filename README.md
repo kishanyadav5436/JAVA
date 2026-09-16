@@ -152,6 +152,7 @@ int main() {
 | [0104-maximum-depth-of-binary-tree](https://github.com/kishanyadav5436/JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/kishanyadav5436/JAVA/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/kishanyadav5436/JAVA/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kishanyadav5436/JAVA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/kishanyadav5436/JAVA/tree/master/0700-search-in-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/kishanyadav5436/JAVA/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
@@ -162,6 +163,7 @@ int main() {
 | [0104-maximum-depth-of-binary-tree](https://github.com/kishanyadav5436/JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/kishanyadav5436/JAVA/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/kishanyadav5436/JAVA/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kishanyadav5436/JAVA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/kishanyadav5436/JAVA/tree/master/0700-search-in-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/kishanyadav5436/JAVA/tree/master/2236-root-equals-sum-of-children) |
 ## Math
@@ -199,6 +201,7 @@ int main() {
 | [0104-maximum-depth-of-binary-tree](https://github.com/kishanyadav5436/JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/kishanyadav5436/JAVA/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/kishanyadav5436/JAVA/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kishanyadav5436/JAVA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Design
 |  |
 | ------- |
@@ -341,5 +344,14 @@ int main() {
 ## Binary Search Tree
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kishanyadav5436/JAVA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/kishanyadav5436/JAVA/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Lifting
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kishanyadav5436/JAVA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kishanyadav5436/JAVA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
