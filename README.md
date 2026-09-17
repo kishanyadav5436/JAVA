@@ -152,6 +152,7 @@ int main() {
 | [0100-same-tree](https://github.com/kishanyadav5436/JAVA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kishanyadav5436/JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/kishanyadav5436/JAVA/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/kishanyadav5436/JAVA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/kishanyadav5436/JAVA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kishanyadav5436/JAVA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kishanyadav5436/JAVA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -165,6 +166,7 @@ int main() {
 | [0100-same-tree](https://github.com/kishanyadav5436/JAVA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kishanyadav5436/JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/kishanyadav5436/JAVA/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/kishanyadav5436/JAVA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/kishanyadav5436/JAVA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kishanyadav5436/JAVA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kishanyadav5436/JAVA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -197,6 +199,7 @@ int main() {
 | [0020-valid-parentheses](https://github.com/kishanyadav5436/JAVA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kishanyadav5436/JAVA/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/kishanyadav5436/JAVA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/kishanyadav5436/JAVA/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -205,6 +208,7 @@ int main() {
 | [0100-same-tree](https://github.com/kishanyadav5436/JAVA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kishanyadav5436/JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/kishanyadav5436/JAVA/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/kishanyadav5436/JAVA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/kishanyadav5436/JAVA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kishanyadav5436/JAVA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kishanyadav5436/JAVA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
