@@ -103,6 +103,7 @@ int main() {
 | [0053-maximum-subarray](https://github.com/kishanyadav5436/JAVA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/kishanyadav5436/JAVA/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kishanyadav5436/JAVA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kishanyadav5436/JAVA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0179-largest-number](https://github.com/kishanyadav5436/JAVA/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/kishanyadav5436/JAVA/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kishanyadav5436/JAVA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -125,6 +126,7 @@ int main() {
 | [0001-two-sum](https://github.com/kishanyadav5436/JAVA/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/kishanyadav5436/JAVA/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kishanyadav5436/JAVA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kishanyadav5436/JAVA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/kishanyadav5436/JAVA/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/kishanyadav5436/JAVA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/kishanyadav5436/JAVA/tree/master/0217-contains-duplicate) |
@@ -156,6 +158,7 @@ int main() {
 | [0102-binary-tree-level-order-traversal](https://github.com/kishanyadav5436/JAVA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kishanyadav5436/JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kishanyadav5436/JAVA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kishanyadav5436/JAVA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/kishanyadav5436/JAVA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/kishanyadav5436/JAVA/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kishanyadav5436/JAVA/tree/master/0144-binary-tree-preorder-traversal) |
@@ -179,6 +182,7 @@ int main() {
 | [0102-binary-tree-level-order-traversal](https://github.com/kishanyadav5436/JAVA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kishanyadav5436/JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kishanyadav5436/JAVA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kishanyadav5436/JAVA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/kishanyadav5436/JAVA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/kishanyadav5436/JAVA/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kishanyadav5436/JAVA/tree/master/0144-binary-tree-preorder-traversal) |
@@ -310,6 +314,7 @@ int main() {
 | [0004-median-of-two-sorted-arrays](https://github.com/kishanyadav5436/JAVA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/kishanyadav5436/JAVA/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kishanyadav5436/JAVA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kishanyadav5436/JAVA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kishanyadav5436/JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/kishanyadav5436/JAVA/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
