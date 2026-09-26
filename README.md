@@ -264,6 +264,7 @@ int main() {
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/kishanyadav5436/JAVA/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/kishanyadav5436/JAVA/tree/master/0303-range-sum-query-immutable) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kishanyadav5436/JAVA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0933-number-of-recent-calls](https://github.com/kishanyadav5436/JAVA/tree/master/0933-number-of-recent-calls) |
@@ -286,6 +287,7 @@ int main() {
 | [0217-contains-duplicate](https://github.com/kishanyadav5436/JAVA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kishanyadav5436/JAVA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kishanyadav5436/JAVA/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/kishanyadav5436/JAVA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/kishanyadav5436/JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kishanyadav5436/JAVA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/kishanyadav5436/JAVA/tree/master/0414-third-maximum-number) |
@@ -302,6 +304,7 @@ int main() {
 | [0125-valid-palindrome](https://github.com/kishanyadav5436/JAVA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/kishanyadav5436/JAVA/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/kishanyadav5436/JAVA/tree/master/0189-rotate-array) |
+| [0295-find-median-from-data-stream](https://github.com/kishanyadav5436/JAVA/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/kishanyadav5436/JAVA/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kishanyadav5436/JAVA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/kishanyadav5436/JAVA/tree/master/0455-assign-cookies) |
@@ -355,6 +358,7 @@ int main() {
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kishanyadav5436/JAVA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/kishanyadav5436/JAVA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/kishanyadav5436/JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/kishanyadav5436/JAVA/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kishanyadav5436/JAVA/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -409,6 +413,7 @@ int main() {
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/kishanyadav5436/JAVA/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kishanyadav5436/JAVA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0933-number-of-recent-calls](https://github.com/kishanyadav5436/JAVA/tree/master/0933-number-of-recent-calls) |
 ## Floyd's Cycle Finding Algorithm
