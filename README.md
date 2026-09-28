@@ -118,6 +118,7 @@ int main() {
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kishanyadav5436/JAVA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/kishanyadav5436/JAVA/tree/master/0455-assign-cookies) |
 | [0575-distribute-candies](https://github.com/kishanyadav5436/JAVA/tree/master/0575-distribute-candies) |
+| [0621-task-scheduler](https://github.com/kishanyadav5436/JAVA/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kishanyadav5436/JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/kishanyadav5436/JAVA/tree/master/0643-maximum-average-subarray-i) |
 | [0692-top-k-frequent-words](https://github.com/kishanyadav5436/JAVA/tree/master/0692-top-k-frequent-words) |
@@ -143,6 +144,7 @@ int main() {
 | [0387-first-unique-character-in-a-string](https://github.com/kishanyadav5436/JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kishanyadav5436/JAVA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/kishanyadav5436/JAVA/tree/master/0575-distribute-candies) |
+| [0621-task-scheduler](https://github.com/kishanyadav5436/JAVA/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/kishanyadav5436/JAVA/tree/master/0692-top-k-frequent-words) |
 ## Linked List
 |  |
@@ -295,6 +297,7 @@ int main() {
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kishanyadav5436/JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/kishanyadav5436/JAVA/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/kishanyadav5436/JAVA/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/kishanyadav5436/JAVA/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kishanyadav5436/JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/kishanyadav5436/JAVA/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/kishanyadav5436/JAVA/tree/master/0912-sort-an-array) |
@@ -331,6 +334,7 @@ int main() {
 | ------- |
 | [0179-largest-number](https://github.com/kishanyadav5436/JAVA/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/kishanyadav5436/JAVA/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/kishanyadav5436/JAVA/tree/master/0621-task-scheduler) |
 ## Quicksort
 |  |
 | ------- |
@@ -364,6 +368,7 @@ int main() {
 | [0295-find-median-from-data-stream](https://github.com/kishanyadav5436/JAVA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/kishanyadav5436/JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kishanyadav5436/JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0621-task-scheduler](https://github.com/kishanyadav5436/JAVA/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/kishanyadav5436/JAVA/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kishanyadav5436/JAVA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0912-sort-an-array](https://github.com/kishanyadav5436/JAVA/tree/master/0912-sort-an-array) |
@@ -389,6 +394,7 @@ int main() {
 | [0347-top-k-frequent-elements](https://github.com/kishanyadav5436/JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/kishanyadav5436/JAVA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kishanyadav5436/JAVA/tree/master/0387-first-unique-character-in-a-string) |
+| [0621-task-scheduler](https://github.com/kishanyadav5436/JAVA/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/kishanyadav5436/JAVA/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/kishanyadav5436/JAVA/tree/master/0912-sort-an-array) |
 ## Bubble Sort
