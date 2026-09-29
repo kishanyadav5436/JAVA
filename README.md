@@ -96,6 +96,7 @@ int main() {
 | ------- |
 | [0001-two-sum](https://github.com/kishanyadav5436/JAVA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/kishanyadav5436/JAVA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/kishanyadav5436/JAVA/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kishanyadav5436/JAVA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kishanyadav5436/JAVA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/kishanyadav5436/JAVA/tree/master/0042-trapping-rain-water) |
@@ -285,6 +286,7 @@ int main() {
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/kishanyadav5436/JAVA/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/kishanyadav5436/JAVA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/kishanyadav5436/JAVA/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/kishanyadav5436/JAVA/tree/master/0179-largest-number) |
@@ -306,6 +308,7 @@ int main() {
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/kishanyadav5436/JAVA/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/kishanyadav5436/JAVA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/kishanyadav5436/JAVA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/kishanyadav5436/JAVA/tree/master/0125-valid-palindrome) |
