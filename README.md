@@ -113,6 +113,7 @@ int main() {
 | [0303-range-sum-query-immutable](https://github.com/kishanyadav5436/JAVA/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/kishanyadav5436/JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kishanyadav5436/JAVA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/kishanyadav5436/JAVA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kishanyadav5436/JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/kishanyadav5436/JAVA/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kishanyadav5436/JAVA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -367,6 +368,7 @@ int main() {
 | [0215-kth-largest-element-in-an-array](https://github.com/kishanyadav5436/JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/kishanyadav5436/JAVA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/kishanyadav5436/JAVA/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/kishanyadav5436/JAVA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kishanyadav5436/JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/kishanyadav5436/JAVA/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/kishanyadav5436/JAVA/tree/master/0692-top-k-frequent-words) |
