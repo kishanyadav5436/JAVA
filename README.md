@@ -120,6 +120,7 @@ int main() {
 | [0414-third-maximum-number](https://github.com/kishanyadav5436/JAVA/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kishanyadav5436/JAVA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/kishanyadav5436/JAVA/tree/master/0455-assign-cookies) |
+| [0502-ipo](https://github.com/kishanyadav5436/JAVA/tree/master/0502-ipo) |
 | [0575-distribute-candies](https://github.com/kishanyadav5436/JAVA/tree/master/0575-distribute-candies) |
 | [0621-task-scheduler](https://github.com/kishanyadav5436/JAVA/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kishanyadav5436/JAVA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -301,6 +302,7 @@ int main() {
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kishanyadav5436/JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/kishanyadav5436/JAVA/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/kishanyadav5436/JAVA/tree/master/0455-assign-cookies) |
+| [0502-ipo](https://github.com/kishanyadav5436/JAVA/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/kishanyadav5436/JAVA/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kishanyadav5436/JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/kishanyadav5436/JAVA/tree/master/0692-top-k-frequent-words) |
@@ -341,6 +343,7 @@ int main() {
 | [0011-container-with-most-water](https://github.com/kishanyadav5436/JAVA/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/kishanyadav5436/JAVA/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/kishanyadav5436/JAVA/tree/master/0455-assign-cookies) |
+| [0502-ipo](https://github.com/kishanyadav5436/JAVA/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/kishanyadav5436/JAVA/tree/master/0621-task-scheduler) |
 ## Quicksort
 |  |
@@ -376,6 +379,7 @@ int main() {
 | [0347-top-k-frequent-elements](https://github.com/kishanyadav5436/JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/kishanyadav5436/JAVA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kishanyadav5436/JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0502-ipo](https://github.com/kishanyadav5436/JAVA/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/kishanyadav5436/JAVA/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/kishanyadav5436/JAVA/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kishanyadav5436/JAVA/tree/master/0703-kth-largest-element-in-a-stream) |
