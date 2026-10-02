@@ -108,6 +108,7 @@ int main() {
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kishanyadav5436/JAVA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0179-largest-number](https://github.com/kishanyadav5436/JAVA/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/kishanyadav5436/JAVA/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/kishanyadav5436/JAVA/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kishanyadav5436/JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/kishanyadav5436/JAVA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/kishanyadav5436/JAVA/tree/master/0238-product-of-array-except-self) |
@@ -262,6 +263,7 @@ int main() {
 | [0144-binary-tree-preorder-traversal](https://github.com/kishanyadav5436/JAVA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kishanyadav5436/JAVA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/kishanyadav5436/JAVA/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/kishanyadav5436/JAVA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/kishanyadav5436/JAVA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kishanyadav5436/JAVA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kishanyadav5436/JAVA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -452,6 +454,7 @@ int main() {
 | [0104-maximum-depth-of-binary-tree](https://github.com/kishanyadav5436/JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/kishanyadav5436/JAVA/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/kishanyadav5436/JAVA/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/kishanyadav5436/JAVA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/kishanyadav5436/JAVA/tree/master/0226-invert-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -499,5 +502,10 @@ int main() {
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/kishanyadav5436/JAVA/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kishanyadav5436/JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/kishanyadav5436/JAVA/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
