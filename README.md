@@ -155,6 +155,7 @@ int main() {
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/kishanyadav5436/JAVA/tree/master/0021-merge-two-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/kishanyadav5436/JAVA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/kishanyadav5436/JAVA/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/kishanyadav5436/JAVA/tree/master/0206-reverse-linked-list) |
 ## Recursion
