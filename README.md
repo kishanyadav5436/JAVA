@@ -127,6 +127,7 @@ int main() {
 | [0628-maximum-product-of-three-numbers](https://github.com/kishanyadav5436/JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/kishanyadav5436/JAVA/tree/master/0643-maximum-average-subarray-i) |
 | [0692-top-k-frequent-words](https://github.com/kishanyadav5436/JAVA/tree/master/0692-top-k-frequent-words) |
+| [0695-max-area-of-island](https://github.com/kishanyadav5436/JAVA/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/kishanyadav5436/JAVA/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/kishanyadav5436/JAVA/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/kishanyadav5436/JAVA/tree/master/0973-k-closest-points-to-origin) |
@@ -272,6 +273,7 @@ int main() {
 | [0437-path-sum-iii](https://github.com/kishanyadav5436/JAVA/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/kishanyadav5436/JAVA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/kishanyadav5436/JAVA/tree/master/0572-subtree-of-another-tree) |
+| [0695-max-area-of-island](https://github.com/kishanyadav5436/JAVA/tree/master/0695-max-area-of-island) |
 ## Design
 |  |
 | ------- |
@@ -457,6 +459,7 @@ int main() {
 | [0199-binary-tree-right-side-view](https://github.com/kishanyadav5436/JAVA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/kishanyadav5436/JAVA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/kishanyadav5436/JAVA/tree/master/0226-invert-binary-tree) |
+| [0695-max-area-of-island](https://github.com/kishanyadav5436/JAVA/tree/master/0695-max-area-of-island) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -505,8 +508,10 @@ int main() {
 | ------- |
 | [0200-number-of-islands](https://github.com/kishanyadav5436/JAVA/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kishanyadav5436/JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0695-max-area-of-island](https://github.com/kishanyadav5436/JAVA/tree/master/0695-max-area-of-island) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/kishanyadav5436/JAVA/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/kishanyadav5436/JAVA/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
