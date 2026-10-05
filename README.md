@@ -131,6 +131,7 @@ int main() {
 | [0704-binary-search](https://github.com/kishanyadav5436/JAVA/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/kishanyadav5436/JAVA/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/kishanyadav5436/JAVA/tree/master/0973-k-closest-points-to-origin) |
+| [0994-rotting-oranges](https://github.com/kishanyadav5436/JAVA/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/kishanyadav5436/JAVA/tree/master/1046-last-stone-weight) |
 ## Hash Table
 |  |
@@ -460,6 +461,7 @@ int main() {
 | [0200-number-of-islands](https://github.com/kishanyadav5436/JAVA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/kishanyadav5436/JAVA/tree/master/0226-invert-binary-tree) |
 | [0695-max-area-of-island](https://github.com/kishanyadav5436/JAVA/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/kishanyadav5436/JAVA/tree/master/0994-rotting-oranges) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -509,6 +511,7 @@ int main() {
 | [0200-number-of-islands](https://github.com/kishanyadav5436/JAVA/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kishanyadav5436/JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0695-max-area-of-island](https://github.com/kishanyadav5436/JAVA/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/kishanyadav5436/JAVA/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
