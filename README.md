@@ -341,6 +341,7 @@ int main() {
 | [0179-largest-number](https://github.com/kishanyadav5436/JAVA/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/kishanyadav5436/JAVA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/kishanyadav5436/JAVA/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/kishanyadav5436/JAVA/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/kishanyadav5436/JAVA/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/kishanyadav5436/JAVA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kishanyadav5436/JAVA/tree/master/0387-first-unique-character-in-a-string) |
@@ -467,6 +468,7 @@ int main() {
 | [0199-binary-tree-right-side-view](https://github.com/kishanyadav5436/JAVA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/kishanyadav5436/JAVA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/kishanyadav5436/JAVA/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/kishanyadav5436/JAVA/tree/master/0301-remove-invalid-parentheses) |
 | [0695-max-area-of-island](https://github.com/kishanyadav5436/JAVA/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/kishanyadav5436/JAVA/tree/master/0994-rotting-oranges) |
 ## Binary Search Tree
@@ -528,4 +530,8 @@ int main() {
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/kishanyadav5436/JAVA/tree/master/0133-clone-graph) |
+## Backtracking
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/kishanyadav5436/JAVA/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
