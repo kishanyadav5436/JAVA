@@ -254,6 +254,7 @@ int main() {
 | [0144-binary-tree-preorder-traversal](https://github.com/kishanyadav5436/JAVA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kishanyadav5436/JAVA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kishanyadav5436/JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/kishanyadav5436/JAVA/tree/master/1021-remove-outermost-parentheses) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -348,6 +349,7 @@ int main() {
 | [0557-reverse-words-in-a-string-iii](https://github.com/kishanyadav5436/JAVA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0692-top-k-frequent-words](https://github.com/kishanyadav5436/JAVA/tree/master/0692-top-k-frequent-words) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kishanyadav5436/JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/kishanyadav5436/JAVA/tree/master/1021-remove-outermost-parentheses) |
 ## Greedy
 |  |
 | ------- |
@@ -445,6 +447,7 @@ int main() {
 | ------- |
 | [0020-valid-parentheses](https://github.com/kishanyadav5436/JAVA/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kishanyadav5436/JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/kishanyadav5436/JAVA/tree/master/1021-remove-outermost-parentheses) |
 ## Data Stream
 |  |
 | ------- |
