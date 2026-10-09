@@ -255,6 +255,7 @@ int main() {
 | [0145-binary-tree-postorder-traversal](https://github.com/kishanyadav5436/JAVA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kishanyadav5436/JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/kishanyadav5436/JAVA/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/kishanyadav5436/JAVA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -350,6 +351,7 @@ int main() {
 | [0692-top-k-frequent-words](https://github.com/kishanyadav5436/JAVA/tree/master/0692-top-k-frequent-words) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kishanyadav5436/JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/kishanyadav5436/JAVA/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/kishanyadav5436/JAVA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Greedy
 |  |
 | ------- |
@@ -359,6 +361,7 @@ int main() {
 | [0502-ipo](https://github.com/kishanyadav5436/JAVA/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/kishanyadav5436/JAVA/tree/master/0621-task-scheduler) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kishanyadav5436/JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/kishanyadav5436/JAVA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Quicksort
 |  |
 | ------- |
@@ -448,6 +451,7 @@ int main() {
 | [0020-valid-parentheses](https://github.com/kishanyadav5436/JAVA/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kishanyadav5436/JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/kishanyadav5436/JAVA/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/kishanyadav5436/JAVA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Data Stream
 |  |
 | ------- |
