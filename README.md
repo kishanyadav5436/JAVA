@@ -134,6 +134,7 @@ int main() {
 | [0994-rotting-oranges](https://github.com/kishanyadav5436/JAVA/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/kishanyadav5436/JAVA/tree/master/1046-last-stone-weight) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/kishanyadav5436/JAVA/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/kishanyadav5436/JAVA/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -546,4 +547,8 @@ int main() {
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/kishanyadav5436/JAVA/tree/master/0301-remove-invalid-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/kishanyadav5436/JAVA/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
