@@ -135,6 +135,7 @@ int main() {
 | [1046-last-stone-weight](https://github.com/kishanyadav5436/JAVA/tree/master/1046-last-stone-weight) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/kishanyadav5436/JAVA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/kishanyadav5436/JAVA/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/kishanyadav5436/JAVA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Hash Table
 |  |
 | ------- |
@@ -156,6 +157,7 @@ int main() {
 | [0575-distribute-candies](https://github.com/kishanyadav5436/JAVA/tree/master/0575-distribute-candies) |
 | [0621-task-scheduler](https://github.com/kishanyadav5436/JAVA/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/kishanyadav5436/JAVA/tree/master/0692-top-k-frequent-words) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/kishanyadav5436/JAVA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Linked List
 |  |
 | ------- |
@@ -299,6 +301,7 @@ int main() {
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/kishanyadav5436/JAVA/tree/master/0268-missing-number) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/kishanyadav5436/JAVA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Sorting
 |  |
 | ------- |
@@ -367,6 +370,7 @@ int main() {
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kishanyadav5436/JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/kishanyadav5436/JAVA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/kishanyadav5436/JAVA/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/kishanyadav5436/JAVA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Quicksort
 |  |
 | ------- |
