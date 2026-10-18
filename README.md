@@ -133,6 +133,7 @@ int main() {
 | [0973-k-closest-points-to-origin](https://github.com/kishanyadav5436/JAVA/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/kishanyadav5436/JAVA/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/kishanyadav5436/JAVA/tree/master/1046-last-stone-weight) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kishanyadav5436/JAVA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/kishanyadav5436/JAVA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/kishanyadav5436/JAVA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/kishanyadav5436/JAVA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -202,6 +203,7 @@ int main() {
 | [0572-subtree-of-another-tree](https://github.com/kishanyadav5436/JAVA/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/kishanyadav5436/JAVA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kishanyadav5436/JAVA/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kishanyadav5436/JAVA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2236-root-equals-sum-of-children](https://github.com/kishanyadav5436/JAVA/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
@@ -230,6 +232,7 @@ int main() {
 | [0572-subtree-of-another-tree](https://github.com/kishanyadav5436/JAVA/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/kishanyadav5436/JAVA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kishanyadav5436/JAVA/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kishanyadav5436/JAVA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2236-root-equals-sum-of-children](https://github.com/kishanyadav5436/JAVA/tree/master/2236-root-equals-sum-of-children) |
 ## Math
 |  |
@@ -239,6 +242,7 @@ int main() {
 | [0268-missing-number](https://github.com/kishanyadav5436/JAVA/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kishanyadav5436/JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/kishanyadav5436/JAVA/tree/master/0973-k-closest-points-to-origin) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kishanyadav5436/JAVA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/kishanyadav5436/JAVA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Binary Search
 |  |
@@ -397,12 +401,14 @@ int main() {
 | [0347-top-k-frequent-elements](https://github.com/kishanyadav5436/JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/kishanyadav5436/JAVA/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/kishanyadav5436/JAVA/tree/master/0973-k-closest-points-to-origin) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kishanyadav5436/JAVA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kishanyadav5436/JAVA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/kishanyadav5436/JAVA/tree/master/0053-maximum-subarray) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kishanyadav5436/JAVA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kishanyadav5436/JAVA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -506,6 +512,7 @@ int main() {
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kishanyadav5436/JAVA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/kishanyadav5436/JAVA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kishanyadav5436/JAVA/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kishanyadav5436/JAVA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -553,6 +560,7 @@ int main() {
 | ------- |
 | [0200-number-of-islands](https://github.com/kishanyadav5436/JAVA/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/kishanyadav5436/JAVA/tree/master/0695-max-area-of-island) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kishanyadav5436/JAVA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Graph Theory
 |  |
 | ------- |
@@ -573,4 +581,16 @@ int main() {
 |  |
 | ------- |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/kishanyadav5436/JAVA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kishanyadav5436/JAVA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Combinatorics
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kishanyadav5436/JAVA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kishanyadav5436/JAVA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
