@@ -144,6 +144,7 @@ int main() {
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kishanyadav5436/JAVA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/kishanyadav5436/JAVA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/kishanyadav5436/JAVA/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/kishanyadav5436/JAVA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/kishanyadav5436/JAVA/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/kishanyadav5436/JAVA/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/kishanyadav5436/JAVA/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -212,6 +213,7 @@ int main() {
 | [0703-kth-largest-element-in-a-stream](https://github.com/kishanyadav5436/JAVA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kishanyadav5436/JAVA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2236-root-equals-sum-of-children](https://github.com/kishanyadav5436/JAVA/tree/master/2236-root-equals-sum-of-children) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/kishanyadav5436/JAVA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -306,6 +308,7 @@ int main() {
 | [0695-max-area-of-island](https://github.com/kishanyadav5436/JAVA/tree/master/0695-max-area-of-island) |
 | [1254-number-of-closed-islands](https://github.com/kishanyadav5436/JAVA/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kishanyadav5436/JAVA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/kishanyadav5436/JAVA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Design
 |  |
 | ------- |
@@ -324,6 +327,7 @@ int main() {
 | [0268-missing-number](https://github.com/kishanyadav5436/JAVA/tree/master/0268-missing-number) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/kishanyadav5436/JAVA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/kishanyadav5436/JAVA/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/kishanyadav5436/JAVA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/kishanyadav5436/JAVA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Sorting
 |  |
@@ -386,6 +390,7 @@ int main() {
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kishanyadav5436/JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/kishanyadav5436/JAVA/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/kishanyadav5436/JAVA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/kishanyadav5436/JAVA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Greedy
 |  |
 | ------- |
@@ -417,6 +422,7 @@ int main() {
 | [0912-sort-an-array](https://github.com/kishanyadav5436/JAVA/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/kishanyadav5436/JAVA/tree/master/0973-k-closest-points-to-origin) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kishanyadav5436/JAVA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/kishanyadav5436/JAVA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -601,10 +607,12 @@ int main() {
 |  |
 | ------- |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/kishanyadav5436/JAVA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/kishanyadav5436/JAVA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/kishanyadav5436/JAVA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/kishanyadav5436/JAVA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Memoization
 |  |
 | ------- |
