@@ -143,6 +143,7 @@ int main() {
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/kishanyadav5436/JAVA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kishanyadav5436/JAVA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/kishanyadav5436/JAVA/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/kishanyadav5436/JAVA/tree/master/3665-twisted-mirror-path-count) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/kishanyadav5436/JAVA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/kishanyadav5436/JAVA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/kishanyadav5436/JAVA/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -431,6 +432,7 @@ int main() {
 | [0053-maximum-subarray](https://github.com/kishanyadav5436/JAVA/tree/master/0053-maximum-subarray) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kishanyadav5436/JAVA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kishanyadav5436/JAVA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3665-twisted-mirror-path-count](https://github.com/kishanyadav5436/JAVA/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/kishanyadav5436/JAVA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Monotonic Stack
 |  |
@@ -583,6 +585,7 @@ int main() {
 | [0994-rotting-oranges](https://github.com/kishanyadav5436/JAVA/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/kishanyadav5436/JAVA/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kishanyadav5436/JAVA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/kishanyadav5436/JAVA/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/kishanyadav5436/JAVA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Union-Find
 |  |
