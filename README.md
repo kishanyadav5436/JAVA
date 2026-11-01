@@ -120,6 +120,7 @@ int main() {
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kishanyadav5436/JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/kishanyadav5436/JAVA/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kishanyadav5436/JAVA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/kishanyadav5436/JAVA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/kishanyadav5436/JAVA/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/kishanyadav5436/JAVA/tree/master/0502-ipo) |
 | [0575-distribute-candies](https://github.com/kishanyadav5436/JAVA/tree/master/0575-distribute-candies) |
@@ -250,6 +251,7 @@ int main() {
 | [0069-sqrtx](https://github.com/kishanyadav5436/JAVA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/kishanyadav5436/JAVA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/kishanyadav5436/JAVA/tree/master/0268-missing-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/kishanyadav5436/JAVA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kishanyadav5436/JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/kishanyadav5436/JAVA/tree/master/0973-k-closest-points-to-origin) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kishanyadav5436/JAVA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
