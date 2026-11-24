@@ -142,6 +142,7 @@ int main() {
 | [2778-sum-of-squares-of-special-elements](https://github.com/kishanyadav5436/JAVA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/kishanyadav5436/JAVA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/kishanyadav5436/JAVA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/kishanyadav5436/JAVA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/kishanyadav5436/JAVA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/kishanyadav5436/JAVA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kishanyadav5436/JAVA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -259,6 +260,7 @@ int main() {
 | [0973-k-closest-points-to-origin](https://github.com/kishanyadav5436/JAVA/tree/master/0973-k-closest-points-to-origin) |
 | [1352-product-of-the-last-k-numbers](https://github.com/kishanyadav5436/JAVA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kishanyadav5436/JAVA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/kishanyadav5436/JAVA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/kishanyadav5436/JAVA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/kishanyadav5436/JAVA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3886-sum-of-sortable-integers](https://github.com/kishanyadav5436/JAVA/tree/master/3886-sum-of-sortable-integers) |
@@ -509,6 +511,7 @@ int main() {
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/kishanyadav5436/JAVA/tree/master/0643-maximum-average-subarray-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/kishanyadav5436/JAVA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/kishanyadav5436/JAVA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Bracket Sequences
 |  |
@@ -622,6 +625,7 @@ int main() {
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/kishanyadav5436/JAVA/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/kishanyadav5436/JAVA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3886-sum-of-sortable-integers](https://github.com/kishanyadav5436/JAVA/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Indexed Tree
 |  |
@@ -654,4 +658,8 @@ int main() {
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/kishanyadav5436/JAVA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/kishanyadav5436/JAVA/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
