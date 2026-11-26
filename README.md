@@ -262,6 +262,7 @@ int main() {
 | [0973-k-closest-points-to-origin](https://github.com/kishanyadav5436/JAVA/tree/master/0973-k-closest-points-to-origin) |
 | [1352-product-of-the-last-k-numbers](https://github.com/kishanyadav5436/JAVA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kishanyadav5436/JAVA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3360-stone-removal-game](https://github.com/kishanyadav5436/JAVA/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/kishanyadav5436/JAVA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/kishanyadav5436/JAVA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/kishanyadav5436/JAVA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -674,4 +675,8 @@ int main() {
 |  |
 | ------- |
 | [3934-smallest-unique-subarray](https://github.com/kishanyadav5436/JAVA/tree/master/3934-smallest-unique-subarray) |
+## Simulation
+|  |
+| ------- |
+| [3360-stone-removal-game](https://github.com/kishanyadav5436/JAVA/tree/master/3360-stone-removal-game) |
 <!---LeetCode Topics End-->
